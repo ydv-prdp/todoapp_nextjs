@@ -11,8 +11,16 @@ yarn dev
 # or
 pnpm dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+Then, run the backend json server:
+```bash
+npm run json-server
+```
+
+Open [http://localhost:3001](http://localhost:3001) with your browser to see the result of backend server. 
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
